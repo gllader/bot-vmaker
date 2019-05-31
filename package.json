@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/gllader/bot-vmaker/issues"
   },
-  "homepage": "https://github.com/gllader/bot-vmaker#readme"
+  "homepage": "https://github.com/gllader/bot-vmaker#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  }
 }
